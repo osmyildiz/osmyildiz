@@ -1,7 +1,7 @@
 ### Hi there. I'm Osman YILDIZ 👋
 
 <!--
-**osmyildiz/osmyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**osmyildiz/osmyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - ⏱ I’m interested in Data Science
 - 🔍 I'm presently engaged on machine learning.
