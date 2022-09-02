@@ -28,25 +28,25 @@
 # 🏛️ Python Libraries
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas" width="120" /> </a>
 <a href="#" target="_blank"> <img src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/scipy_logo_450x254.png" alt="SciPy" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 
 
 # 🧑‍💻 Languages
 
 <a href="#" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="180"/> </a>
-<a href="#" target="_blank"> <img src="https://www.php.net//images/logos/php-logo.svg" alt="PHP" width="180"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1422px-PHP-logo.svg.png" alt="PHP" width="180"/> </a>
 <a href="#" target="_blank"> <img src="https://laravelnews.imgix.net/images/laravel-featured.png?dpr=2&ixlib=php-3.3.1" alt="LARAVEL" width="180"/> </a>
 <a href="#" target="_blank"> <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="DART" width="180"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/1024px-Google-flutter-logo.svg.png" alt="FLUTTER" width="180"/> </a>
+<a href="#" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" alt="FLUTTER" width="180"/> </a>
 <a href="#" target="_blank"> <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="JAVA" width="180"/> </a>
 
 # 🗄️ Databases
 
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MYSQL" width="180"/> </a>
 <a href="#" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="MSSQL" width="180"/> </a>
-<a href="#" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kusb9stg1ndrp7j53-MongoDBLogoBrand1.png?auto=format%252Ccompress" alt="MONGODB" width="180"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1024px-MongoDB_Logo.svg.png" alt="MONGODB" width="180"/> </a>
 
 
 
